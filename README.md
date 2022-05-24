@@ -5,7 +5,6 @@
   * [Installation](#Installation)
   * [Usage](#Usage)
   
-  * [Preview](#preview)
   * [Github](#chavue91)
   * [Heroku](#Heroku)
 
@@ -19,7 +18,7 @@
   Go to the heroku link and start using the app to track your budget!
 
   ## Preview of app final product 
-  [preview] <img src="./assets/budget-tracker.PNG" style="width: 400px" alt="site screenshot">
+  <img src="./assets/budget-tracker.PNG" style="width: 400px" alt="site screenshot">
 
   ### GitHub Profile
   [chavue91](https://github.com/chavue91/budget-tracker)
